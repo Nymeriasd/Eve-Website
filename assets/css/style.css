@@ -6025,13 +6025,17 @@ blockquote::before {
   align-items: center;
 }
 .single-service.bg-1 {
-  background-color: #1d2786;
+  background-color: #ffffff;
 }
 .single-service.bg-2 {
   background-color: #0f51aa;
 }
 .single-service.bg-3 {
   background-color: #283149;
+}
+
+.single-service.bg-4 {
+  background-color: #ffd64e;
 }
 
 .parallax-service-content {
@@ -6048,7 +6052,7 @@ blockquote::before {
 .parallax-service-content .section-title {
   margin-bottom: 20px;
   font-weight: 500;
-  color: #FFFFFF;
+  /* color: #FFFFFF; */
 }
 .parallax-service-content p {
   font-size: 0.938125rem;
