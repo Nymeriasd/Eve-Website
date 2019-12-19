@@ -226,7 +226,7 @@ button:focus {
   -webkit-transform: translateY(-150%);
   -ms-transform: translateY(-150%);
   transform: translateY(-150%);
-  background-color: #f1f1f1;
+  background-color: #ffffff;
   width: 100%;
   z-index: 100;
   -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.1);
@@ -7688,7 +7688,7 @@ blockquote::before {
 
 .loadmore-btn {
   color: #1654a5;
-  font-size: 1.375rem;
+  /* font-size: 1.375rem; */
   letter-spacing: .3px;
 }
 .loadmore-btn > i {
