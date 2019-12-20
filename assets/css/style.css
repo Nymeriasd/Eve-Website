@@ -726,6 +726,7 @@ button:focus {
   display: inline-block;
   min-height: 123px;
   line-height: 113px;
+  width: 120px;
 }
 
 .header-style3 .nav-header > .nav-brand,
