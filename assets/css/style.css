@@ -314,13 +314,13 @@ button:focus {
 }
 
 .nav-menu li.active > a {
-  color: #1bd1ea !important;
+  color: #5880d7 !important;
 }
 .nav-menu li.active > a .submenu-indicator-chevron {
-  border-color: transparent #1bd1ea #1bd1ea transparent !important;
+  border-color: transparent #5880d7 #5880d7 transparent !important;
 }
 .nav-menu li > .nav-dropdown a.active {
-  color: #1bd1ea !important;
+  color: #5880d7 !important;
 }
 
 .xs-header {
@@ -3653,7 +3653,7 @@ button:focus {
   font-size: 3.75rem;
 }
 .single-funfact-item .color-1 {
-  color: #ff5382;
+  color: black;
 }
 .single-funfact-item .color-2 {
   color: #4951bf;
@@ -7279,21 +7279,21 @@ blockquote::before {
 }
 .hr-single-timeline.color-1 .number-count,
 .hr-single-timeline.color-1 .hr-timeline-content > i {
-  color: #4246e8;
+  color: #1756A7;
 }
 .hr-single-timeline.color-2 .number-count,
 .hr-single-timeline.color-2 .hr-timeline-content > i {
-  color: #7ad9fd;
+  color: #FFD74E;
 }
 .hr-single-timeline.color-3 .number-count,
 .hr-single-timeline.color-3 .hr-timeline-content > i {
-  color: #ff5382;
+  color: #1756A7;
 }
 
 .number-count {
   font-size: 7.1875rem;
   font-weight: 700;
-  color: #f5a802;
+  color: #FFD74E;
   display: block;
   line-height: 1;
   opacity: .2;
@@ -8758,7 +8758,7 @@ blockquote::before {
 }
 .agency-section-title .sub-title {
   font-size: 0.875rem;
-  color: #1bd1ea;
+  color: #5880d7;
   font-weight: 700;
   font-family: "Roboto", sans-serif;
   letter-spacing: 1px;
@@ -8771,6 +8771,7 @@ blockquote::before {
 }
 .agency-section-title .main-title em {
   font-family: "Playfair Display", serif;
+  color: #5880d7;
 }
 .agency-section-title .main-title.big {
   font-size: 5.625rem;
