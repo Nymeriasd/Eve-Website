@@ -7621,6 +7621,7 @@ blockquote::before {
   position: relative;
   margin: 15px;
   overflow: hidden;
+  border-radius: 15px;
 }
 .portfolio-gallery:hover .entry_caption .title, .portfolio-gallery:hover .entry_caption .cat {
   opacity: 1;
@@ -12194,3 +12195,13 @@ input[type=number] {
 }
 
 
+.frame-square {
+  background: #fff;
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px;
+  width: 400px;
+  height: 400px;
+  margin-right: .5em;
+  margin-bottom: .3em;
+}
