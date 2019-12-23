@@ -314,13 +314,13 @@ button:focus {
 }
 
 .nav-menu li.active > a {
-  color: #5880d7 !important;
+  color: #1756A7 !important;
 }
 .nav-menu li.active > a .submenu-indicator-chevron {
-  border-color: transparent #5880d7 #5880d7 transparent !important;
+  border-color: transparent #1756A7 #1756A7 transparent !important;
 }
 .nav-menu li > .nav-dropdown a.active {
-  color: #5880d7 !important;
+  color: #1756A7 !important;
 }
 
 .xs-header {
@@ -2062,7 +2062,7 @@ button:focus {
 }
 .agency-banner-content.banner-style7 .banner-title > span {
   font-family: inherit;
-  color: #5880d7;
+  color: #1756A7;
   display: block;
 }
 .agency-banner-content.banner-style7 p {
@@ -3200,7 +3200,7 @@ button:focus {
   color: #000000;
 }
 .footer-style4 .footer-bottom-area .copyright-section p a, .footer-style5 .footer-bottom-area .copyright-section p a {
-  color: #1868dd;
+  color: #1756A7;
 }
 .footer-style4 .footer-bottom-area .copyright-content .xs-list > li:not(:last-child), .footer-style5 .footer-bottom-area .copyright-content .xs-list > li:not(:last-child) {
   margin-right: 30px;
