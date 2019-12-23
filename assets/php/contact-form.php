@@ -25,10 +25,10 @@
 
 
 
-	$mail = mail(XPEEDSTUDIO_EMAIL, XPEEDSTUDIO_SUBJECT, $e_content, $headers);
+	$mail = mail(EVE_EMAIL, EVE_SUBJECT, $e_content, $headers);
 
 	if ($mail) {
-		echo XPEEDSTUDIO_SUCCESS_MASSAGE;
+		echo EVE_SUCCESS_MASSAGE;
 	}
 
 ?>
