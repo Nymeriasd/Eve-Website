@@ -10326,14 +10326,14 @@ blockquote::before {
 .about-slider-wraper .owl-dots .owl-dot span {
   width: 6px;
   height: 6px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: white;
 }
 .about-slider-wraper .owl-dots .owl-dot span::before {
   border: 0px;
   background: #c8a513;
-  background: -webkit-linear-gradient(331deg, #c8a513 20%, #5055fa 84%);
-  background: -o-linear-gradient(331deg, #c8a513 20%, #5055fa 84%);
-  background: linear-gradient(119deg, #c8a513 20%, #5055fa 84%);
+  background: -webkit-linear-gradient(331deg, #c8a513 20%, #ffffff 84%);
+  background: -o-linear-gradient(331deg, #c8a513 20%, #ffffff 84%);
+  background: linear-gradient(119deg, #c8a513 20%, #ffffff 84%);
   background-size: 140% auto;
 }
 .about-slider-wraper .owl-carousel .owl-item > .single-slider > img {
