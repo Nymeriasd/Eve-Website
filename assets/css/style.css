@@ -4913,7 +4913,10 @@ button:focus {
   padding: 100px 0;
 }
 .agency-contactus.gray-bg {
-  background-color: #f7f7f7;
+  /* background-color: #f7f7f7; */
+  background-color: #1756A7;
+
+  
 }
 
 .contact-info-wraper {
@@ -11847,7 +11850,8 @@ h3 em,
 
 /* background color */
 .gray-bg {
-  background-color: #fafafa;
+  /* background-color: #fafafa; */
+  background-color: #1756A7;
 }
 
 /* remove from control focus box shadow */
