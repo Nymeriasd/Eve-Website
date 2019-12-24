@@ -1470,37 +1470,37 @@ button:focus {
   font-size: 1.125rem;
 }
 .simple-social-list li a.facebook {
-  /* color: #3e5c9a; */
+  color: #3e5c9a;
 }
 .simple-social-list li a.facebook:hover {
   color: #283b63;
 }
 .simple-social-list li a.twitter {
-  /* color: #1da1f2; */
+  color: #1da1f2;
 }
 .simple-social-list li a.twitter:hover {
   color: #0b76b8;
 }
 .simple-social-list li a.googlePlus {
-  /* color: #fb2f14; */
+  color: #fb2f14;
 }
 .simple-social-list li a.googlePlus:hover {
   color: #bf1903;
 }
 .simple-social-list li a.linkedin {
-  /* color: #0077b5; */
+  color: #0077b5;
 }
 .simple-social-list li a.linkedin:hover {
   color: #004569;
 }
 .simple-social-list li a.instagram {
-  /* color: #e8715c; */
+  color: #e8715c;
 }
 .simple-social-list li a.instagram:hover {
   color: #d93b1f;
 }
 .simple-social-list li a.behance {
-  /* color: #1769ff; */
+  color: #1769ff;
 }
 .simple-social-list li a.behance:hover {
   color: #0047ca;
