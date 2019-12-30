@@ -197,9 +197,10 @@ img {
 
 ul, li {
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
   list-style: none;
 }
+ 
 
 .clear-both:before,
 .clear-both:after {
@@ -6064,7 +6065,7 @@ blockquote::before {
 .parallax-service-content p {
   font-size: 0.938125rem;
   color: #a8abc8;
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
 }
 .parallax-service-content .simple-btn {
   color: #FFFFFF;
