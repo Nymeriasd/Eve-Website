@@ -6033,7 +6033,9 @@ blockquote::before {
   background-color: #ffffff;
 }
 .single-service.bg-2 {
-  background-color: #0f51aa;
+  /* background-color: #0f51aa; */
+  background-color: #1756A7;
+  
 }
 .single-service.bg-3 {
   background-color: #283149;
