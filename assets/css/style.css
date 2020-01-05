@@ -2872,6 +2872,7 @@ button:focus {
   -ms-flex-align: center;
   align-items: center;
   cursor: all-scroll;
+  padding: 30px;
 }
 .client-slider .item > img {
   -webkit-filter: grayscale(100%);
