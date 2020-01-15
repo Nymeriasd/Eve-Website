@@ -12215,3 +12215,7 @@ input[type=number] {
   margin-right: .5em;
   margin-bottom: .3em;
 }
+
+.txt-arabic {
+  text-align: right;
+}
