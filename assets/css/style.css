@@ -12219,3 +12219,8 @@ input[type=number] {
 .txt-arabic {
   text-align: right;
 }
+
+@font-face {
+  font-family: CustomeFont;
+  src: url(/assets/fonts/TheMixArab-Regular.ttf);
+}
