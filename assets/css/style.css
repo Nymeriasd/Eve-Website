@@ -12217,7 +12217,13 @@ input[type=number] {
 }
 
 .txt-arabic {
-  text-align: right;
+  text-align: justify;
+  text-align-last: right;
+}
+
+.txt-english {
+  text-align: justify;
+  text-align-last: left;
 }
 
 @font-face {
